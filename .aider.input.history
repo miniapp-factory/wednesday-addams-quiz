@@ -1,0 +1,156 @@
+
+# 2025-11-24 03:56:41.746499
++Code the following app
++```
++ROLE & GOAL
++You are an expert web app and quiz creator. Build a fast, mobile-friendly personality quiz mini app themed around Wednesday (Netflix) and its upcoming/ongoing Season 2. The quiz should help fans discover:
++
++“Which Wednesday Season 2 character are you?”
++
++The app must be fun, replayable, and easy to share.
++
++CORE CONCEPT
++
++Quiz title: “Which Wednesday Season 2 Character Are You?”
++
++Tone: Spooky, witty, and deadpan with a touch of dark humor, in the spirit of Wednesday Addams.
++
++Characters to sort into (you choose 4–6 core options, for example):
++
++Wednesday
++
++Enid
++
++Xavier
++
++Bianca
++
++Ajax
++
++A “mystery wildcard” result (e.g., “You’re the shadow no one saw coming.”)
++
++IMPORTANT:
++
++Do not reveal or invent major plot spoilers.
++
++Keep references high-level (personality traits, vibes, archetypes), not detailed episode summaries.
++
++QUIZ STRUCTURE
++
++7–10 multiple-choice questions.
++
++Each question should:
++
++Reflect a spooky, gothic school / supernatural vibe.
++
++Map answers to different characters’ traits (e.g., introverted vs. extroverted, loyal vs. ruthless, chaotic vs. calculated).
++
++You must:
++
++Write all the questions and answers yourself.
++
++Randomize the order of answers on each question.
++
++Ensure each answer has a clear weight toward 1–2 characters.
++
++RESULT LOGIC
++
++Use a simple scoring system:
++
++Each answer adds points to one or more characters.
++
++At the end, the character with the highest score becomes the result.
++
++If there is a tie, choose the character whose personality best fits the majority of answers or break ties randomly between the top matches.
++
++Result page must include:
++
++Character name.
++
++A 2–3 sentence original description capturing their Season 2 vibe and why the user matches them (no spoilers).
++
++A fun line like: “You’d feel right at home wandering Nevermore’s halls at midnight.”
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-24 03:56:41.747047
++Code the following app
++```
++ROLE & GOAL
++You are an expert web app and quiz creator. Build a fast, mobile-friendly personality quiz mini app themed around Wednesday (Netflix) and its upcoming/ongoing Season 2. The quiz should help fans discover:
++
++“Which Wednesday Season 2 character are you?”
++
++The app must be fun, replayable, and easy to share.
++
++CORE CONCEPT
++
++Quiz title: “Which Wednesday Season 2 Character Are You?”
++
++Tone: Spooky, witty, and deadpan with a touch of dark humor, in the spirit of Wednesday Addams.
++
++Characters to sort into (you choose 4–6 core options, for example):
++
++Wednesday
++
++Enid
++
++Xavier
++
++Bianca
++
++Ajax
++
++A “mystery wildcard” result (e.g., “You’re the shadow no one saw coming.”)
++
++IMPORTANT:
++
++Do not reveal or invent major plot spoilers.
++
++Keep references high-level (personality traits, vibes, archetypes), not detailed episode summaries.
++
++QUIZ STRUCTURE
++
++7–10 multiple-choice questions.
++
++Each question should:
++
++Reflect a spooky, gothic school / supernatural vibe.
++
++Map answers to different characters’ traits (e.g., introverted vs. extroverted, loyal vs. ruthless, chaotic vs. calculated).
++
++You must:
++
++Write all the questions and answers yourself.
++
++Randomize the order of answers on each question.
++
++Ensure each answer has a clear weight toward 1–2 characters.
++
++RESULT LOGIC
++
++Use a simple scoring system:
++
++Each answer adds points to one or more characters.
++
++At the end, the character with the highest score becomes the result.
++
++If there is a tie, choose the character whose personality best fits the majority of answers or break ties randomly between the top matches.
++
++Result page must include:
++
++Character name.
++
++A 2–3 sentence original description capturing their Season 2 vibe and why the user matches them (no spoilers).
++
++A fun line like: “You’d feel right at home wandering Nevermore’s halls at midnight.”
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-24 03:57:22.590613
++apply changes
+
+# 2025-11-24 03:57:22.591196
++apply changes
